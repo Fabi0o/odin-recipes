@@ -1,0 +1,19 @@
+body {
+  background-color: rgb(235, 208, 54);
+}
+.header {
+  text-align: center;
+  background-color: rgb(212, 159, 159);
+}
+.nav {
+  background-color: rgb(212, 159, 159);
+}
+.navUnit {
+  margin-top: 10px;
+  font-size: large;
+  font-family: "Times New Roman", Times, serif;
+}
+.subsection {
+  text-align: center;
+  background-color: rgb(212, 159, 159);
+}
